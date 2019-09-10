@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+VTree/tests/testdata/tess/
+
+.idea/
+
+notebooks/
+
+Untitled.ipynb
+
+Variability tree.gv
+
+Variability tree.gv.pdf
